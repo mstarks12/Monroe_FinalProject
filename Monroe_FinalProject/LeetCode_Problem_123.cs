@@ -16,6 +16,7 @@
              (4) https://learn.microsoft.com/en-us/dotnet/csharp/methods
              (5) https://docs.devexpress.com/AspNetBootstrap/118670/getting-started/integration-into-an-existing-project
              (6) https://chatgpt.com/share/6807c1cf-06ac-800d-b56d-c2f75d642773
+             (7) https://chatgpt.com/c/6807bdad-2ec4-800d-bf38-b61b0c265714
 * Anything else that's relevant: LeetCode Problem Links: (1) https://leetcode.com/problems/text-justification/description/
                                                          (2) https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
                                                          (3) https://leetcode.com/problems/ipo/
